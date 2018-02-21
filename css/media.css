@@ -1,0 +1,37 @@
+/*xs Divice */
+@media (max-width:767px) { 
+    .my_menu ul li ul li{
+   background-color:white;
+    padding: 10px 0;
+    
+}
+
+ .pull-right {float:none !important;}  
+   
+ .address{
+  text-align:center;
+  } 
+  .con_info{
+display: block;
+
+}
+}
+
+/*sm Divice */
+@media (min-width:767px) and (max-width:991px) {
+
+  
+}
+
+/*md Divice */
+@media (min-width:991px) and (max-width:1199px) {
+   
+   
+}
+/*lg Divice */
+@media (min-width:1200px) {
+    
+  
+ 
+    
+}
